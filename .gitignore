@@ -1,3 +1,12 @@
 /.idea
 .DS_Store
 /vendor
+*.pyc
+*~
+.ipynb_checkpoints
+.sass-cache
+__pycache__
+_site
+.Rproj.user
+.Rhistory
+.RData
